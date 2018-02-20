@@ -1,0 +1,15 @@
+{
+  "titles": [
+    { "id": 1, "title": "Error!" },
+    { "id": 2, "title": "Success!" },
+    { "id": 3, "title": "Info" }
+  ],
+  "messages": [
+    { "id": 1, "body": "Something went wrong", "titleId": 1 },
+    { "id": 2, "body": "You did it!", "titleId": 2 },
+    { "id": 3, "body": "Work in progress", "titleId": 3 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
